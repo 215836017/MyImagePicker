@@ -1,0 +1,29 @@
+学习作者的项目总结：
+1. 作者的项目地址 ->ImagePicker ：https://github.com/linchaolong/ImagePicker
+
+2. app文件中的内容就是这个程序，性质是一个demo，在调用作者自己写的一个“库”
+
+3. library文件里的内容就是作者自己写的“库”
+
+4. README.md文件是说明书，告诉其他人怎么调用库中的接口。  demo就是README.md的实现。
+
+
+
+新知识： 
+1. com.facebook.drawee.backends.pipeline.Fresco;
+   com.facebook.drawee.generic.RoundingParams;
+   com.facebook.drawee.view.SimpleDraweeView
+
+2. 在activity.xml中，有 xmlns:fresco="http://schemas.android.com/apk/res-auto"
+
+2017.03.28 ---  xiaoqiqi
+
+
+我的项目：
+1. 根据作者的描述，按照作者的demo实例，将代码搭起来，并且可以运行在真机上了。
+
+2. 通过实测，demo是有bug的。
+
+3. 接下来学习作者的lib中的源码。
+
+2017.03.30
